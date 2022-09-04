@@ -7,3 +7,11 @@ analysis (descriptive and inferential).</p>
 
 <h2>Portfolio</h2>
 <p>Below you find some personal projects I've worked on to practice my Data Science skills.</p>
+
+<hr>
+
+### [News Article Summarizer](https://github.com/WelldaSilva/portfolio/blob/main/News%20Article%20Summarizer/news_article_summarizer.ipynb)
+
+<p>In this project, I perform <strong>web scraping</strong> to get some news articles in Portuguese and apply <strong>Natural Language Processing</strong> techniques (e.g. tokenization, stopwords and special characters removal, stemming, and term frequency count) to build a rule-based summarizer in <strong>Python</strong> code.</p>
+
+<p>September 3, 2022</p>
