@@ -10,7 +10,7 @@ analysis (descriptive and inferential).</p>
 
 <hr>
 
-### [News Article Summarizer](https://welldasilva.github.io/portfolio/news_article_summarizer.html)
+### [News Article Summarizer](https://welldasilva.github.io/news-article-summarizer/)
 
 <p>In this project, I perform <strong>web scraping</strong> to get some news articles in Portuguese and apply <strong>Natural Language Processing</strong> techniques (e.g. tokenization, stopwords and special characters removal, stemming, and term frequency count) to build a rule-based summarizer in <strong>Python</strong> code.</p>
 
