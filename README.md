@@ -12,6 +12,8 @@ analysis (descriptive and inferential).</p>
 
 ### [DVD Rental Store Database Analysis](https://welldasilva.github.io/dvd-rental-store-database-analysis/)
 
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+
 <p>In this project I leverage <strong>SQL</strong> with <strong>MySQL</strong> to perform an exploratory data analysis on a DVD rental store database.</p>
 
 <p>September 7, 2022</p>
@@ -19,6 +21,8 @@ analysis (descriptive and inferential).</p>
 <hr>
 
 ### [News Article Summarizer](https://welldasilva.github.io/news-article-summarizer/)
+
+[![python](https://img.shields.io/badge/python-%233776AB?logo=python&logoColor=white)](https://www.python.org/) ![web-scraping](https://img.shields.io/badge/-Web%20Scraping-lightgrey) ![NLP](https://img.shields.io/badge/-NLP-brightgreen)
 
 <p>In this project, I perform <strong>web scraping</strong> to get some news articles in Portuguese and apply <strong>Natural Language Processing</strong> techniques (e.g. tokenization, stopwords and special characters removal, stemming, and term frequency count) to build a rule-based summarizer in <strong>Python</strong> code.</p>
 
