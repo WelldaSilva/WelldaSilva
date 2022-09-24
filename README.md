@@ -10,6 +10,14 @@ analysis (descriptive and inferential).</p>
 
 <hr>
 
+### [DVD Rental Store Database Analysis](https://welldasilva.github.io/dvd-rental-store-database-analysis/)
+
+<p>In this project I leverage <strong>SQL</strong> with <strong>MySQL</strong> to perform an exploratory data analysis on a DVD rental store database.</p>
+
+<p>September 7, 2022</p>
+
+<hr>
+
 ### [News Article Summarizer](https://welldasilva.github.io/news-article-summarizer/)
 
 <p>In this project, I perform <strong>web scraping</strong> to get some news articles in Portuguese and apply <strong>Natural Language Processing</strong> techniques (e.g. tokenization, stopwords and special characters removal, stemming, and term frequency count) to build a rule-based summarizer in <strong>Python</strong> code.</p>
