@@ -10,6 +10,28 @@ analysis (descriptive and inferential).</p>
 
 <hr>
 
+### Topic Modeling
+
+![NLP](https://img.shields.io/badge/-NLP-brightgreen) [![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)](https://www.r-project.org/) ![Topic-Modeling](https://img.shields.io/badge/-Topic%20Modeling-8A2BE2) ![web-scraping](https://img.shields.io/badge/-Web%20Scraping-lightgrey)
+
+This is an end-to-end Natural Language Processing project in which I collect consumers complaints from the Web and perform Topic Modeling on them. The project is presented here in two parts:
+
+### [Web scraping with RSelenium, Rvest, and SQL](https://welldasilva.github.io/mba-usp-project/web_scraping_in_r/)
+
+<p>Here I leverage some <strong>R</strong> packages, such as <strong>RSelenium</strong> and <strong>Rvest</strong>, to scrape consumers complaints from the Web and store them in an <strong>SQLite</strong> database.</p>
+
+<p>August 7, 2022</p>
+
+### [Topic modeling in e-commerce consumer complaints](https://welldasilva.github.io/mba-usp-project/topic-modeling/)
+
+<p>In this project I use <strong>R</strong> to apply a popular <strong>topic modeling technique</strong>, latent Dirichlet allocation (LDA), to analyze e-commerce consumer complaints.</p>
+
+<p>Check out a <a href="https://welldasilva.github.io/mba-usp-project/vis/#topic=1&lambda=0.6&term=">preview!</a></p>
+
+<p>May 15, 2023</p>
+
+<hr>
+
 ### [DVD Rental Store Database Analysis](https://welldasilva.github.io/dvd-rental-store-database-analysis/)
 
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
